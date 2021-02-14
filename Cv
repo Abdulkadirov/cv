@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Contacts</title>
+  </head>
+  <body>
+    <ul>
+      <li>tel: 99899999999</li>
+      <li>adress: uy, joy, ko'cha </li>
+    </ul>
+    <form class="" action="index.html" method="post">
+      <input type="text" name="" value="">
+      <input type="submit" name="" value="">
+      <input type="file" name="" value="">
+      <input type="date" name="" value="">
+      <input type="radio" name="" value="">
+      <input type="range" name="" value="">
+    </form>
+  </body>
+</html>
+
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>First personal site</title>
+</head>
+
+<body>
+  <table cellspacing="10">
+    <tr>
+      <td><img src="instagram.jpg" alt="Surat" style="width: 100px; height= 100px"></td>
+      <td>
+        <h1> Ozodbek Abdulkadirov </h1>
+        <p><em>This is <strong>italic</strong> text</em></p>
+        <p>Im a student and designeer</p>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Education list</h3>
+  <ul>
+    <li>First list</li>
+    <li>Second list</li>
+  </ul>
+  <hr>
+  <h3>Hobbies</h3>
+  <ol>
+    <li><a href="#">first hobby</a></li>
+    <li><a href="#">Second list</a></li>
+  </ol>
+  <hr>
+  <table cellspacing="10">
+    <tr>
+      <td>Photoshop</td>
+      <td>&spades;&spades;&spades;&spades;</td>
+      <td>After effects</td>
+      <td>&spades;&spades;&spades;</td>
+    </tr>
+    <tr>
+      <td>Illustrator</td>
+      <td>&spades;&spades;</td>
+      <td>Primier Pro</td>
+      <td>&spades;</td>
+    </tr>
+    </table>
+    <p><a href="contacts.html">Contacts</a> </p>
+</body>
+
+</html>
+
